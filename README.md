@@ -7,12 +7,13 @@ Currently, it works only on 1.21.1.
 # Build
 
 ```sh
+# Download this git repository
 git clone https://github.com/pg255/objectBot
 cd objectBot
-# run this once:
-cmake --build build --target my-project --config Release
-# build objectBot with:
-cmake --build build --target my-project --config Release
+# Run this once
+cmake -S . -B build -DCMAKE_CONFIG_TYPE=Release
+# Build objectBot with this
+cmake --build build --target objectBot --config Release
 ```
 
 For more information check [botcraft-project-template](https://github.com/adepierre/botcraft-project-template).
