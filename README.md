@@ -1,7 +1,8 @@
 # objectBot
-objectBot is Minecraft bot made with [Botcraft](https://github.com/adepierre/Botcraft).
 
-Currently it works only on 1.21.1
+ObjectBot is Minecraft bot made with [Botcraft](https://github.com/adepierre/Botcraft).
+
+Currently, it works only on 1.21.1.
 
 # Build
 
