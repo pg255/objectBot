@@ -1,0 +1,14 @@
+# ignore build folder
+build/
+
+# ignore bin folder
+bin/
+
+# temporary cpp file that I might use sometimes
+objectBot/src/temp.cpp
+
+# hide .directory file including directory style
+.directory
+
+# hide cache
+.cache/
